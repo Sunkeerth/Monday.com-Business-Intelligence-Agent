@@ -1,4 +1,6 @@
-const API_URL = "https://monday-com-business-intelligence-agent.onrender.com";  // Change to deployed URL later
+// const API_URL = "https://monday-com-business-intelligence-agent.onrender.com";
+//   // Change to deployed URL later
+const API_URL = "https://monday-com-business-intelligence-agent.onrender.com/chat";
 let chartInstance = null;
 
 async function sendMessage() {
