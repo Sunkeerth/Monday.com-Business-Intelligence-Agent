@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monday BI Agent | Modern UI</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>📊 Monday.com BI Agent</h1>
+            <p class="subtitle">Ask anything about your business data</p>
+        </header>
+
+        <main class="main-content">
+            <div id="chat-box" class="chat-box"></div>
+
+            <div id="chart-container" class="chart-container" style="display: none;">
+                <canvas id="myChart"></canvas>
+            </div>
+
+            <div class="input-area">
+                <input type="text" id="user-input" placeholder="e.g., pipeline for mining sector" autofocus>
+                <button id="send-btn" onclick="sendMessage()">Send</button>
+            </div>
+
+            <div id="trace" class="trace-panel"></div>
+        </main>
+
+        <footer class="app-footer">
+            <p>⚡ Live Monday.com integration · Voice output · Smart insights</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
