@@ -58,7 +58,8 @@ The agent:
 
 # 🎥 Demo Video
 
-<video src="video/MONDAY.COM.mp4" controls width="100%" style="max-width:800px;"></video>
+<!-- <video src="video/MONDAY.COM.mp4" controls width="100%" style="max-width:800px;"></video> -->
+<video src="video/MONDAY.COM.mp4" controls></video>
 
 If video preview doesn't play on GitHub, download and watch locally.
 
@@ -309,3 +310,4 @@ Focused on:
 ✔ Screenshots added  
 ✔ Demo added  
 ✔ Assignment ready  
+
