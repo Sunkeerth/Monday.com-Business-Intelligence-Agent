@@ -71,8 +71,8 @@ Click the image above to watch the full demo video.
 | **Frontend (Netlify)** | https://frontendsuu.netlify.app |
 | **Backend API (Render)** | https://monday-com-business-intelligence-agent.onrender.com |
 | **GitHub Repo** | https://github.com/Sunkeerth/Monday.com-Business-Intelligence-Agent |
-| **Deals Board** | *(Add your share link)* |
-| **Work Orders Board** | *(Add your share link)* |
+| **Deals Board** | https://sunkeerthaimlbitms-team.monday.com/boards/5026872855 |
+| **Work Orders Board** | https://sunkeerthaimlbitms-team.monday.com/boards/5026872899 |
 
 ---
 
@@ -309,5 +309,6 @@ Focused on:
 ✔ Screenshots added  
 ✔ Demo added  
 ✔ Assignment ready  
+
 
 
