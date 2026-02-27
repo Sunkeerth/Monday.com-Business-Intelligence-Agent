@@ -68,7 +68,7 @@ Click the image above to watch the full demo video.
 
 | Component | URL |
 |-----------|-----|
-| **Frontend (Netlify)** | https://frontendsuu.netlify.app |
+| **Frontend (Netlify)** | https://mondayproj.netlify.app/ |
 | **Backend API (Render)** | https://monday-com-business-intelligence-agent.onrender.com |
 | **GitHub Repo** | https://github.com/Sunkeerth/Monday.com-Business-Intelligence-Agent |
 | **Deals Board** | https://sunkeerthaimlbitms-team.monday.com/boards/5026872855 |
@@ -309,6 +309,7 @@ Focused on:
 ✔ Screenshots added  
 ✔ Demo added  
 ✔ Assignment ready  
+
 
 
 
